@@ -25,7 +25,7 @@ factorial(A,B):-
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/49f69afa-42be-45af-9c13-5015aed2eef1)
 
 
-/2024
+
 
 ### Result:
 Thus the fact/orial of given number was found by logic programming. 
