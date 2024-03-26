@@ -59,7 +59,7 @@ symptom(raju,sore_throat).
 ### Output:
 
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/78a40476-5b27-4269-9f45-7eea35dd9c5c)
-![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/7ce5c4bf-51b2-4999-ba1a-521e93aa5603
+![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/7ce5c4bf-51b2-4999-ba1a-521e93aa5603)
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/75884f12-6bfa-4039-b041-519c495e8715)
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/c1fb7768-96ec-4353-baae-22b993d1139d)
 
