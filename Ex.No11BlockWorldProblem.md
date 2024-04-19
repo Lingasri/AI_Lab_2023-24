@@ -85,9 +85,10 @@ Problem 2
 
 
 ### Output/Plan:
-![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/5e3db7c2-e55e-4be8-ba04-cedb0e1a8a99)
+![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/facabb49-4948-4fa7-a0e3-8996bf405281)
 
-![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/6f8049e1-244c-4fee-b2aa-a0c802b9aa27)
+![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/f063f896-3e12-4972-8477-1cd13856e427)
+
 
 
 
