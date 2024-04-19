@@ -88,7 +88,7 @@ Problem 2
 ```
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/5871da11-9b94-4bf5-8396-1cd937d9f238)
 ![image](https://github.com/Lingasri/AI_Lab_2023-24/assets/143391929/4ba52255-5f31-4503-bd57-0209cdf8977e)
-
+```
 
 
 
